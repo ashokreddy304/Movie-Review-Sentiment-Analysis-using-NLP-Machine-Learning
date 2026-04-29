@@ -1,0 +1,9 @@
+# params.yaml
+data_ingestion:
+  test_size: 0.2
+  random_state: 42
+  shuffle: true
+  stratify: true
+
+feature_engineering:
+  max_features: 50
